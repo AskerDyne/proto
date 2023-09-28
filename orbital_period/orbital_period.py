@@ -1,4 +1,9 @@
+# Imports
 import math
+import sys
+
+# Configuration
+sys.tracebacklimit = 0
 
 def orbital_period(semi_major_axis, central_body_mass, semi_major_axis_unit, output_unit):
     G = 6.67430e-11  # Gravitational constant in m^3 kg^(-1) s^(-2)
