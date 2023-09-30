@@ -61,14 +61,14 @@ while True:
     hohmann_transfer_calculation = delta_v_and_time_of_flight(central_body_mass, orbital_distance_a, orbital_distance_b, output_unit)
 
     # Print out the results or ask to input valid values
-    if hohmann_transfer_calculation not None:
-        print(f"\nDelta V1 is approximately {hohmann_Transfer_Calculations[0]:.2f} meters per second.")
-        print(f"\nDelta V2 is approximately {hohmann_Transfer_Calculations[1]:.2f} meters per second.")
-        print(f"\nDelta V is approximately {hohmann_Transfer_Calculations[0] + hohmann_Transfer_Calculations[1]:.2f} meters per second.")
+    if hohmann_transfer_calculation is not None:
+        print(f"\nDelta V1 is approximately {hohmann_transfer_calculation[0]:.2f} meters per second.")
+        print(f"\nDelta V2 is approximately {hohmann_transfer_calculation[1]:.2f} meters per second.")
+        print(f"\nDelta V is approximately {hohmann_transfer_calculation[0] + hohmann_transfer_calculation[1]:.2f} meters per second.")
         if output_unit == "years":
-            print(f"\nThe time of flight is approximately {hohmann_Transfer_Calculations[2]:.2f} years.")
+            print(f"\nThe time of flight is approximately {hohmann_transfer_calculation[2]:.2f} years.")
         else:
-            print(f"\nThe time of flight is approximately {hohmann_Transfer_Calculations[2]:.2f} days.")
+            print(f"\nThe time of flight is approximately {hohmann_transfer_calculation[2]:.2f} days.")
     else:
         print(f"\nInvalid input. Please enter valid numerical values and units.")
 
