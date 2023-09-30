@@ -1,6 +1,5 @@
 # Imports
 import json
-import os
 import pytz
 import subprocess
 import sys
@@ -20,7 +19,7 @@ print_alert =  (f"{Fore.WHITE}[{Fore.LIGHTRED_EX}!{Fore.WHITE}]")
 
 def tle_data(tle_data):
     try:
-        # Load the ephemeris data!
+        # Load the ephemeris data if available!
         eph = load('de421.bsp')
         # Create the satellite object, getting current date/time in UTC and calculate relative position in lat/lon degrees
         satellite = EarthSatellite(tle_data["line1"], tle_data["line2"])

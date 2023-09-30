@@ -4,7 +4,7 @@
 
 Partial attribution credit to [pixabay](https://pixabay.com/illustrations/brain-blueprint-thinking-analysis-1845941/)
 
-## 🚀 About ProtoStation
+## 🚀 About ProtoStation | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/97707eea9255430ca830dc8e0f816539)](https://app.codacy.com/gh/FoxIDK/protostation/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ProtoStation is where I'd like to believe my ideas take flight and concepts come to life. This repository is dedicated to hosting a collection of proof of concept (PoC) projects I've developed.
 
@@ -14,24 +14,15 @@ ProtoStation is where I'd like to believe my ideas take flight and concepts come
 
 *Each prototype can be found within it's own designated folder for management purposes*.
 
-## 🕸 Contributors
-
-Your contributions push the boundaries of whats possible and it's greatly appreciated.
-<br>
-<a href="https://github.com/FoxIDK/protostation/graphs/contributors">
-<p align="center">
-  <img src="https://contrib.rocks/image?repo=FoxIDK/protostation" />
-  </p>
-</a>
-
 ## 🥂 How To Contribute
 Thank you for investing your time in contributing to the ProtoStation. Any contribution you make will be reflected in the Contributors segment prior to this.
 
 To navigate the codebase and contribute with confidence:
 
+- You must sign the commits or it **will* be rejected.
 - The file hierarchy is cleanly `./project_name/project_name.py` an example being `./orbital_period/orbital_period.py`.
 - If you need to use additional programs, ensure they're built around the `project_name.py` and contained to the folder it inhabits. You can find a good example of this in `codebreak_net` which contains two `.py` files and sub-folders.
-- Study the coding style before contributing or it may get rejected. I'm trying to keep it uniform and consistent across the board and as I do welcome contributions I'd prefer it stays consistant. Code is often built in snippets, with a clear and short comment outlining the function of the snippet - it doesn't have to be complicated, less is more. Stick to DRY, KISS and YAGNI where possible. *Just follow the style, please*.
+- Study the pre-existing code style before contributing or it may get rejected or edited heavily. I'm trying to keep it uniform and consistent across the board and as I do welcome contributions I'd prefer it stays consistant. Code is often built in snippets, with a clear and short comment outlining the function of the snippet - it doesn't have to be complicated, less is more. Stick to DRY, KISS and YAGNI where possible. *Just follow the style, please*.
 
 ### Issues
 
@@ -70,39 +61,3 @@ Congratulations. Once your PR is merged, your contributions will be publicly vis
 If you share my passion for technology, space, AI, cybersecurity, citizen-led initiatives and STEM come join a thriving community on Discord. Feel free to reach out for support, collaboration, or just to chat about the wonders of the universe in which we share!
 
 👉 [Join Our Community on Discord](https://discord.foxlabs.cloud) 👈
-
-## ⚖ License
-
-[Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-Under the following conditions, and appendix:
-
-**You are free to**:
-
- - Share — copy and redistribute the material in any medium or format.
-
-*The licensor cannot revoke these freedoms as long as you follow the license terms including appendix.*
-
-**Under the following terms**:
-
- - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor [here](https://www.github.com/FoxIDK/) endorses you or your use.
-
- - NonCommercial — You may not use the material for commercial purposes. If you intend to do so you must make sucessful contact with the origin licensor [here](https://www.github.com/FoxIDK/) for permissions.
-
- - NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
-
- - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-**Notices**:
-
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
-(_"we" in all cases refers to FoxLabs and the team under management of FoxIDK_)
-
-## 🖋 Appendix
-
-If the origin licensor [here](https://www.github.com/FoxIDK/) doesn't agree with your method of providing attribution, or feels you've infinged on the license you must revise it within a reasonable period or risk legal action being taken against you.
-
-All variations, forks, etc built off of this software and license must adhear to this license too unless otherwise specified by contacting the licensor for a unique license for your intended use.

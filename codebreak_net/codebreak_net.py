@@ -2,8 +2,6 @@
 import sys
 import os
 from colorama import Fore
-from dhooks import Webhook, File
-from io import BytesIO
 
 # Configuration
 sys.tracebacklimit = 0

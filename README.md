@@ -4,7 +4,7 @@
 
 Partial attribution credit to [pixabay](https://pixabay.com/illustrations/brain-blueprint-thinking-analysis-1845941/)
 
-## 🚀 About ProtoStation
+## 🚀 About ProtoStation | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/97707eea9255430ca830dc8e0f816539)](https://app.codacy.com/gh/FoxIDK/protostation/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ProtoStation is where I'd like to believe my ideas take flight and concepts come to life. This repository is dedicated to hosting a collection of proof of concept (PoC) projects I've developed.
 
@@ -16,9 +16,10 @@ The mission is simple; explore the cutting edge, push boundaries of what I know,
 
 ## 🕸 Contributors
 
-Your contributions push the boundaries of whats possible and it's greatly appreciated. You can read more about that [here](https://github.com/FoxIDK/protostation/tree/main/CONTRIBUTING.md)!
+Your contributions push the boundaries of whats possible and it's greatly appreciated. 
+*You can read more about that [here](https://github.com/FoxIDK/protostation/tree/main/CONTRIBUTING.md)*!
 <br>
-<a href="https://github.com/FoxIDK/protostation/graphs/contributors">
+<a href="https://github.com/foxidk/protostation/graphs/contributors">
 <p align="center">
   <img src="https://contrib.rocks/image?repo=FoxIDK/protostation" />
   </p>
@@ -44,13 +45,13 @@ Under the following conditions, and appendix:
 
 **Under the following terms**:
 
- - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor [here](https://www.github.com/FoxIDK/) endorses you or your use.
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor [here](https://www.github.com/FoxIDK/) endorses you or your use.
 
- - NonCommercial — You may not use the material for commercial purposes. If you intend to do so you must make sucessful contact with the origin licensor [here](https://www.github.com/FoxIDK/) for permissions.
+- NonCommercial — You may not use the material for commercial purposes. If you intend to do so you must make sucessful contact with the origin licensor [here](https://www.github.com/FoxIDK/) for permissions.
 
- - NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
- - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 **Notices**:
 
