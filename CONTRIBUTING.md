@@ -10,9 +10,9 @@ ProtoStation is where I'd like to believe my ideas take flight and concepts come
 
 *With a sprinkling aid from others who rightfully get attribution and credit*!
 
- The mission is simple; explore the cutting edge, push boundaries of what I know, and pave the way for groundbreaking innovations or OSS that goes towards [FoxLabs](https://foxlabs.cloud).
+The mission is simple; explore the cutting edge, push boundaries of what I know, and pave the way for groundbreaking innovations or OSS that go towards [FoxLabs](https://foxlabs.cloud).
 
-*Each prototype can be found within it's own designated folder for management purposes*.
+*Each prototype can be found within its own designated folder for management purposes*.
 
 ## 🥂 How To Contribute
 Thank you for investing your time in contributing to the ProtoStation. Any contribution you make will be reflected in the Contributors segment prior to this.

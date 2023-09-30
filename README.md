@@ -10,21 +10,20 @@ ProtoStation is where I'd like to believe my ideas take flight and concepts come
 
 *With a sprinkling aid from others who rightfully get attribution and credit*!
 
-The mission is simple; explore the cutting edge, push boundaries of what I know, and pave the way for groundbreaking innovations or OSS that goes towards [FoxLabs](https://foxlabs.cloud).
+The mission is simple; explore the cutting edge, push boundaries of what I know, and pave the way for groundbreaking innovations or OSS that go towards [FoxLabs](https://foxlabs.cloud).
 
-*Each prototype can be found within it's own designated folder for management purposes*.
+*Each prototype can be found within its own designated folder for management purposes*.
 
 ## 🕸 Contributors
 
-Your contributions push the boundaries of whats possible and it's greatly appreciated. 
-*You can read more about that [here](https://github.com/FoxIDK/protostation/tree/main/CONTRIBUTING.md)*!
+Your contributions push the boundaries of what's possible and it's greatly appreciated.
+
+*You can read about contributing [here](https://github.com/FoxIDK/protostation/tree/main/CONTRIBUTING.md)*!
+<br>
 <br>
 <a href="https://github.com/foxidk/protostation/graphs/contributors">
-<p align="center">
-  <img src="https://contrib.rocks/image?repo=FoxIDK/protostation" />
-  </p>
+  <img src="https://contrib.rocks/image?repo=foxidk/protostation" />
 </a>
-
 ## 📱 Connect with Us
 
 If you share my passion for technology, space, AI, cybersecurity, citizen-led initiatives and STEM come join a thriving community on Discord. Feel free to reach out for support, collaboration, or just to chat about the wonders of the universe in which we share!
